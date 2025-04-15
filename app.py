@@ -42,7 +42,7 @@ st.markdown("""
 MODEL_DIR = "models"
 model_files = [f for f in os.listdir(MODEL_DIR) if f.endswith(".pkl")]
 
-# Manually map filenames to display names
+# Manually maps filenames to display names
 model_display_map = {
     "linear_regression_model.pkl": "Linear Regression",
     "ridge_model.pkl": "Ridge Regression",
