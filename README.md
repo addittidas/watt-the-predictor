@@ -97,7 +97,7 @@ Includes:
 
 ## 📷 Web App Pic
 
-![Main Page](main_page.png)
+![Main Page](output_images/main_page.png)
 > For example: Home screen, predictions table, feature importance chart.
 
 ---
