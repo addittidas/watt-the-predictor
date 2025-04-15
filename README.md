@@ -75,7 +75,7 @@ Includes:
     ```
 ---
 
-### 📷 Sample Screenshots
+## 📷 Sample Screenshots
 
 > _Add screenshots here after running the app_  
 > For example: Home screen, predictions table, feature importance chart.
