@@ -50,8 +50,8 @@ Includes:
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/energy-prediction.git
-    cd energy-prediction
+    git clone https://github.com/addittidas/watt-the-predictor.git
+    cd watt-the-predictor
     ```
 
 2. Install dependencies:
