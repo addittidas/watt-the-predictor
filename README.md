@@ -1,4 +1,4 @@
-# watt-the-predictor : Energy Consumption Prediction
+# Watt-the-Predictor : Energy Consumption Prediction
 
 This project predicts building energy consumption using the ASHRAE dataset. It explores multiple ML models and deploys the best ones using an interactive Streamlit web app.
 
@@ -59,14 +59,19 @@ Includes:
     pip install -r requirements.txt
     ```
 
-3. Run notebooks to train models:
+3. Download dataset from Kaggle:
+    ```bash
+    https://www.kaggle.com/competitions/ashrae-energy-prediction/data
+    ```
+
+4. Run notebooks to train models and save in folder named models:
     ```bash
     jupyter notebooks
     ```
 
-4. Launch the Streamlit app:
+5. Launch the Streamlit app:
     ```bash
-    streamlit run app/main.py
+    streamlit run app.py
     ```
 ---
 
