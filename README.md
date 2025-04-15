@@ -30,17 +30,13 @@ The app lets you:
 - **Joblib** – Model serialization and loading  
 
 ### 📊 Visualization
-- **Matplotlib / Seaborn** – (optional) For offline plotting and analysis  
+- **Matplotlib / Seaborn** – For offline plotting and analysis  
 - **Streamlit** – For creating interactive web app dashboards  
 - **Streamlit Charts** – Built-in bar charts for feature importance  
 
 ### 🧪 Model Evaluation
 - RMSE, MAE, RMSLE, R² metrics  
-- GridSearchCV for hyperparameter tuning  
-
-### 🖥️ Deployment
-- **Streamlit** – Web-based UI for model interaction  
-- **GitHub** – Code hosting and version control  
+- GridSearchCV for hyperparameter tuning
 
 ---
 
@@ -99,9 +95,9 @@ Includes:
     ```
 ---
 
-## 📷 Sample Screenshots
+## 📷 Web App Pic
 
-> _Add screenshots here after running the app_  
+![Main Page](main_page.png)
 > For example: Home screen, predictions table, feature importance chart.
 
 ---
