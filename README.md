@@ -95,13 +95,6 @@ Includes:
     ```
 ---
 
-## 📷 Web App Pic
-
-![Main Page](output_images/main_page.png)
-> For example: Home screen, predictions table, feature importance chart.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
