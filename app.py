@@ -173,7 +173,6 @@ def get_manual_input():
     hour = st.slider("Hour of Day", 0, 23)
     isDayTime = st.radio("Is Daytime?", [0, 1])
     dayofweek = st.slider("Day of Week", 0, 6)
-
     primary_use_mapping = {
         'Education': 0,
         'Office': 1,
