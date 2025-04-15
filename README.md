@@ -20,6 +20,30 @@ The app lets you:
 
 ---
 
+## 🧰 Tech Stack
+
+### ⚙️ Machine Learning & Data Processing
+- **Pandas** – Data manipulation and preprocessing  
+- **NumPy** – Numerical operations  
+- **Scikit-learn** – Model building, evaluation, hyperparameter tuning  
+- **Keras / TensorFlow** – Neural network modeling  
+- **Joblib** – Model serialization and loading  
+
+### 📊 Visualization
+- **Matplotlib / Seaborn** – (optional) For offline plotting and analysis  
+- **Streamlit** – For creating interactive web app dashboards  
+- **Streamlit Charts** – Built-in bar charts for feature importance  
+
+### 🧪 Model Evaluation
+- RMSE, MAE, RMSLE, R² metrics  
+- GridSearchCV for hyperparameter tuning  
+
+### 🖥️ Deployment
+- **Streamlit** – Web-based UI for model interaction  
+- **GitHub** – Code hosting and version control  
+
+---
+
 ## 🧠 Models Used
 
 | Model                     | Description |
